@@ -1,3 +1,5 @@
+__If this helped you in some way or you find this interesting consider dropping a star, or sending me an email. If you have suggestions for this also consider sending me an email.__
+
 # PS4-controller-as-ableton-
 Enables you to use your PS4 controller as a MIDI controller for ableton
 
